@@ -12,7 +12,7 @@ public class TaskN6 {
         List<Integer> result = new ArrayList<>();
         List<Integer> array;
 
-
+//
         while (true) {
             array = ArrayManager.fillArray(scanner.nextLine());
             if (array.size() >= 3) break;
